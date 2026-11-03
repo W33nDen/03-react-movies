@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 750" role="img" aria-labelledby="title">
+  <title id="title">No poster available</title>
+  <rect width="500" height="750" fill="#222"/>
+  <path d="M125 560h250M150 490l58-75 48 52 45-55 49 78" fill="none" stroke="#aaa" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="315" cy="290" r="42" fill="none" stroke="#aaa" stroke-width="18"/>
+  <text x="250" y="650" fill="#aaa" font-family="Arial,sans-serif" font-size="30" text-anchor="middle">No image</text>
+</svg>
